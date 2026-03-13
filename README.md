@@ -19,3 +19,6 @@
 2. Run `index.php` (Tables will auto-generate on the first load).
 3. Use the **"Initialize Demo Data"** button on the login page to set up test accounts.
    * **Admin Account:** `admin@apu.edu.my` / `password123`
+
+##Author
+Denish
